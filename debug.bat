@@ -4,4 +4,4 @@ docker container run ^
 		--rm ^
 		-v "%cd%":/root/code ^
 		-w /root/code ^
-		travis-encrypt:0
+		pypi-deploy:0
