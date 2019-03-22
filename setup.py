@@ -5,6 +5,9 @@ from setuptools import setup
 
 setup(
     name='check_device_code',
+    # 更新主函数功能   +1.0.0
+    # 更新优化代码    +0.1.0
+    # 更新优化说明    +0.0.1
     version='1.0.0',
     keywords='imei emid',
     packages=['check_device_code'],
